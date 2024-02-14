@@ -1,3 +1,3 @@
-<div class="flex justify-center text-[20px]">
+<div class="flex justify-center text-[30px]">
   HAPPY VALENTINE'S DAY GUYS
 </div>
